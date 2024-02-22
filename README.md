@@ -1,2 +1,2 @@
 # Automative-Morrocan-Arabic-Speech-Command-Datset
-This repository contains the dataset for the first Arabic automotive speech recognition system, focusing on the Moroccan dialect. With 20 in-car commands meticulously selected to enhance safety and reduce distraction, it's tailored for Arabic speakers.
+In this repository, you will find the dataset used for building the first automotive speech recognition system in the Arabic dialect, specifically the Moroccan dialect. The dataset includes 20 commonly used in-car commands, carefully selected to aid Arabic drivers in making their driving experience comfortable and safe by reducing the distraction ratio.
