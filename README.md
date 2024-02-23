@@ -23,16 +23,16 @@ The built dataset is presented in the "Dataset" file within the repository. Ther
 **Dataset File Structure:**
 - Contributor-1
   - Command-1
-    - Command-1 Repetition-1
-    ...  
-    - Command-1 Repetition-10
-  ...
-  - Command-20
-    - Command-20 Repetition-1
-    ...  
-    - Command-20 Repetition-10
-...
-- Contributor-14
+    - Command-1 Repetition-1  
+    ...    
+    - Command-1 Repetition-10  
+  ...  
+  - Command-20  
+    - Command-20 Repetition-1  
+    ...    
+    - Command-20 Repetition-10  
+...  
+- Contributor-14  
 
 The methodology used in our paper is outlined in the following flowchart.  
 </br>
