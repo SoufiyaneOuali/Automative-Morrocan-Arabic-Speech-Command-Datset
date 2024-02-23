@@ -27,12 +27,12 @@ Dataset file structure:   <br>
          -> Command-20 Repetition-10  
   ...  
   -> contributor-14  
- 
+![Alt Text](Images/Methodologey.png)
 
     
 
 
-#Note :
+# Note :
 The dataset used in this research is currently in use and not publicly available. 
 However, authors interested in utilizing this dataset or our codes for research purposes are welcome to do so. 
 Please send an email to my official account, and I will gladly provide you with access to these resources.
