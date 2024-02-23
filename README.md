@@ -18,26 +18,23 @@ The Moroccan Arabic Speech Command Dataset (MASCD) was curated to develop a robu
 This dataset is designed to facilitate a seamless driving experience for Arabic speakers and assist individuals with disabilities. Additionally, our goal is to contribute to the advancement of voice-controlled systems in the Arabic dialect language.
 
 ## Dataset Structure
-The built datset is presented in the dataset file in the repesotory. 
-there are 14 file, each one contain the recording of each  contributors.    
-each contributors file contain 10 sub-file which contain recording of each command 10 times. 
-dataset file
+The built dataset is presented in the "Dataset" file within the repository. There are 14 files, each containing recordings from individual contributors. Within each contributor's file, there are 10 sub-files, each containing recordings of each command repeated 10 times.
 
-Dataset file structure:   <br>
-  -> contributor-1   
-     -> Command-1  
-         -> Command-1 Repetition-1  
-         ..  
-         -> Command-1 Repetition-10  
+**Dataset File Structure:**
+- Contributor-1
+  - Command-1
+    - Command-1 Repetition-1
     ...
-    -> Command-20  
-         -> Command-20 Repetition-1  
-         ..  
-         -> Command-20 Repetition-10  
-  ...  
-  -> contributor-14    
-<br>
-The methodology used in our paper is presented in the folloing flow shart  
+    - Command-1 Repetition-10
+  ...
+  - Command-20
+    - Command-20 Repetition-1
+    ...
+    - Command-20 Repetition-10
+...
+- Contributor-14
+
+The methodology used in our paper is outlined in the following flowchart.
 ![Alt Text](Images/Methodologey.png)
 
 ## Command selected
