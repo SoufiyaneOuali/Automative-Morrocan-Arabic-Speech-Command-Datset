@@ -15,7 +15,7 @@ each contributors file contain 10 sub-file which contain recording of each comma
 dataset file
 
 Dataset file structure: 
-  -> contributor-1
+  -> contributor-1 \n
      -> Command-1
          -> Command-1 Repetition-1
          ..
