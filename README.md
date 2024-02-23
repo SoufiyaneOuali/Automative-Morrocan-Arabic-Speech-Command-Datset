@@ -14,20 +14,20 @@ there are 14 file, each one contain the recording of each  contributors.
 each contributors file contain 10 sub-file which contain recording of each command 10 times. 
 dataset file
 
-Dataset file structure: 
-  -> contributor-1 \n
-     -> Command-1
-         -> Command-1 Repetition-1
-         ..
-         -> Command-1 Repetition-10
+Dataset file structure:   <br>
+  -> contributor-1   
+     -> Command-1  
+         -> Command-1 Repetition-1  
+         ..  
+         -> Command-1 Repetition-10  
     ...
-    -> Command-20
-         -> Command-20 Repetition-1
-         ..
-         -> Command-20 Repetition-10
-  ...
-  -> contributor-14
-
+    -> Command-20  
+         -> Command-20 Repetition-1  
+         ..  
+         -> Command-20 Repetition-10  
+  ...  
+  -> contributor-14  
+ 
 
     
 
